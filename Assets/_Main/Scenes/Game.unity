@@ -210,7 +210,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 266573016}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d18cf340723e114db5bacd5d4e33231, type: 3}
+  m_Script: {fileID: 11500000, guid: 62891d15e751a244b995c68221436533, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   group: {fileID: 266573023}
@@ -828,8 +828,8 @@ MonoBehaviour:
   m_text: "\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F
     \n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8df668e112519e545a6db00a927f03a4, type: 2}
-  m_sharedMaterial: {fileID: -8944219538524964536, guid: 8df668e112519e545a6db00a927f03a4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f8765e38ea566cf48908eac95adb9c7d, type: 2}
+  m_sharedMaterial: {fileID: 9175093336878508205, guid: f8765e38ea566cf48908eac95adb9c7d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

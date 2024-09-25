@@ -13,53 +13,53 @@ MonoBehaviour:
   m_Name: ImageReferencesData
   m_EditorClassIdentifier: 
   <ImagesReference>k__BackingField:
-  - m_AssetGUID: 1fc5b3ca051cfea4aa39e156f7ec9ba5
-    m_SubObjectName: Image
+  - m_AssetGUID: 786017343dcd15849b0edbda2a742209
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: e8db5cf81db8beb41b18e707bbb2ac57
-    m_SubObjectName: Image 1
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 6a2a43149d4b0f74a9c0defb5e8b8933
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: baee2bb1bf057ca438dc62a2772432c1
-    m_SubObjectName: Image 2
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: c0bca5e3f3820d5428a1bd1b64d93952
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: fa7f6b0ae96f98449a354405661c5dcd
-    m_SubObjectName: Image 3
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 698a394d2a00955438200f09be5c2665
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: 4919f319bc09a0a4780558f7e233c626
-    m_SubObjectName: Image 4
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 6948af8a4bfd6de499ee23b8ddef0511
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: 6b2f6b69b32b18f4caf8f48d7a4af7be
-    m_SubObjectName: Image 5
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 2c44d7c97a26f954d9ebd864b2f8a70f
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: 03014ad38f29a464cb30bae53cd45421
-    m_SubObjectName: Image 6
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 0397a95c1c0436e45919b172b3b43ee2
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: 6a9d39f6cc2758b4da22631e2350189f
-    m_SubObjectName: Image 7
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: f7fa59e8502e4cb47a9694175ce5290a
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: f2712058d37c60d428855b7ff05bb69b
-    m_SubObjectName: Image 8
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 11dc4429d2125da49b5960f83c05d3d4
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
-  - m_AssetGUID: 7c008ba782ca05640ace614d27f96a51
-    m_SubObjectName: Image 9
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 2c1cfbefc10832c4a8ce5e4599746d34
+    m_SubObjectName: 
     m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_EditorAssetChanged: 1
+    m_EditorAssetChanged: 0
