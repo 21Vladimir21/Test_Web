@@ -215,7 +215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   group: {fileID: 266573023}
   button: {fileID: 266573022}
-  cycleTime: 1.5
+  cycleTime: 0.5
 --- !u!114 &266573022
 MonoBehaviour:
   m_ObjectHideFlags: 0
