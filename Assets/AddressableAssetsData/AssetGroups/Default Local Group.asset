@@ -15,55 +15,55 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 52e2eecb57d38ca44a2387ded6ff6ca1
+  m_GUID: 648f7f0260bb8ab428d53bbb3b4f2517
   m_SerializeEntries:
   - m_GUID: 0397a95c1c0436e45919b172b3b43ee2
-    m_Address: Assets/_Main/_Images/Image 6.jpg
+    m_Address: Image 6
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 11dc4429d2125da49b5960f83c05d3d4
-    m_Address: Assets/_Main/_Images/Image 8.jpg
+    m_Address: Image 8
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2c1cfbefc10832c4a8ce5e4599746d34
-    m_Address: Assets/_Main/_Images/Image 9.jpg
+    m_Address: Image 9
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2c44d7c97a26f954d9ebd864b2f8a70f
-    m_Address: Assets/_Main/_Images/Image 5.jpg
+    m_Address: Image 5
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6948af8a4bfd6de499ee23b8ddef0511
-    m_Address: Assets/_Main/_Images/Image 4.jpg
+    m_Address: Image 4
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 698a394d2a00955438200f09be5c2665
-    m_Address: Assets/_Main/_Images/Image 3.jpg
+    m_Address: Image 3
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6a2a43149d4b0f74a9c0defb5e8b8933
-    m_Address: Assets/_Main/_Images/Image 1.jpg
+    m_Address: Image 1
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 786017343dcd15849b0edbda2a742209
-    m_Address: Assets/_Main/_Images/Image.jpg
+    m_Address: Image
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c0bca5e3f3820d5428a1bd1b64d93952
-    m_Address: Assets/_Main/_Images/Image 2.jpg
+    m_Address: Image 2
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f7fa59e8502e4cb47a9694175ce5290a
-    m_Address: Assets/_Main/_Images/Image 7.jpg
+    m_Address: Image 7
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
